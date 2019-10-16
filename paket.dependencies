@@ -1,0 +1,11 @@
+source https://api.nuget.org/v3/index.json
+framework: netstandard2.0
+
+nuget Microsoft.ML.AutoML prerelease
+nuget Microsoft.ML.TimeSeries prerelease 
+nuget Microsoft.ML.StaticPipe prerelease 
+nuget Microsoft.ML.DnnImageFeaturizer.AlexNet prerelease 
+nuget Microsoft.ML.Ensemble prerelease 
+nuget System.Numerics.Vectors prerelease 
+nuget System.Runtime.CompilerServices.Unsafe prerelease
+nuget Newtonsoft.Json
