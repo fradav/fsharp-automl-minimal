@@ -1,5 +1,7 @@
 # Minimal automl interactive f# notebook
 
+![](plot.png)
+
 Courtesy of [@fwaris](https://twitter.com/fwaris7?s=17) on fssnippets:
 
 - [Configure F# Interactive to use Microsoft.ML.Net](http://www.fssnip.net/7Wi/title/Configure-F-Interactive-to-use-MicrosoftMLNet)
