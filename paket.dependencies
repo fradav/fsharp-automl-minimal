@@ -9,3 +9,6 @@ nuget Microsoft.ML.Ensemble prerelease
 nuget System.Numerics.Vectors prerelease 
 nuget System.Runtime.CompilerServices.Unsafe prerelease
 nuget Newtonsoft.Json
+nuget FSharp.Data
+nuget System.Data.SQLite
+nuget SQLProvider

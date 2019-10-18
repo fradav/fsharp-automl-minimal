@@ -1,6 +1,6 @@
 # Minimal automl interactive f# notebook
 
-![](plot.png)
+![example plot](plot.png)
 
 Courtesy of [@fwaris](https://twitter.com/fwaris7?s=17) on fssnippets:
 
